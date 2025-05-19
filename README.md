@@ -1,4 +1,4 @@
-Here’s a complete `README.md` for your **Notification Service** project, including setup without Docker, with support for **Email**, **SMS**, and **In-App** notifications using **RabbitMQ**, **MongoDB**, **Nodemailer**, and **Twilio**:
+This document include setup without Docker, with support for **Email**, **SMS**, and **In-App** notifications using **RabbitMQ**, **MongoDB**, **Nodemailer**, and **Twilio**:
 
 ---
 
