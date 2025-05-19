@@ -129,23 +129,6 @@ Returns all notifications for the user, including status (`pending`, `sent`, `fa
 
 ---
 
-## ✅ Example Usage
-
-1. Insert a user in MongoDB:
-   ```json
-   {
-     "name": "Alice",
-     "email": "alice@example.com",
-     "phone": "+1234567890"
-   }
-   ```
-
-2. Send notification:
-   ```json
-   {
-     "userId": "mongodb_generated_user_id",
-     "type": "email",
-     "message": "Welcome 
 
 ## 🏆 Features
 
