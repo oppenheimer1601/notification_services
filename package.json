@@ -1,0 +1,18 @@
+{
+  "name": "notification-service",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "worker": "node worker/consumer.js"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.8",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "mongoose": "^7.8.7",
+    "nodemailer": "^6.10.1",
+    "twilio": "^4.23.0"
+  }
+}
